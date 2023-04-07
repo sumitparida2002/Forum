@@ -1,0 +1,42 @@
+.navbar{
+    padding: 8px;
+    display: flex;
+    flex-direction: row;
+    align-items:center;
+    justify-content: center;
+}
+
+.logo{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.logo-img{
+    height: 35px;
+    width: 35px; 
+    padding-right: 6px;
+}
+
+
+
+.searchBar{
+    border-radius: 25px;
+    height: 35px;
+    width: 300px;
+    padding-left: 8px;
+    margin: 0 5px;
+}
+
+.add-btn{
+    border: none;
+    margin: 0 15px;
+}
+
+.add-btn:hover{
+    cursor: pointer;
+}
+
+/* .add-btn-1{
+    height: 40px;
+} */

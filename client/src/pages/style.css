@@ -1,0 +1,27 @@
+.form-card{
+    height: 40vh;
+    width: 40vh;
+}
+
+.form-card div{
+    padding: 40px 0;
+    background: white;
+}
+
+.form-card div input {
+    background-color: white;
+    margin-left: 8px;
+    color: #222831;
+}
+
+.form-card div label{ 
+    background: white;
+    color: #222831;
+}
+
+.form-container{
+    display: flex;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+}
